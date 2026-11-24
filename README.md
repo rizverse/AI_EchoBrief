@@ -10,7 +10,7 @@
 
 </div>
 
-> **Demo:** <ADD: demo GIF or screenshot at docs/media/demo.gif>
+
 
 ## Contents
 
@@ -198,8 +198,7 @@ Contributions are welcome. Open an issue to discuss a change, then submit a focu
 
 ## License
 
-This project is distributed under the MIT License. Replace `[Your Name]` in `LICENSE` before publishing. Confirm the rights and license terms for any third-party models, libraries, and media you use; this repository does not include sample media or model weights.
-
+This project is distributed under the MIT License.
 ## Author
 
-**<ADD: your name, LinkedIn, GitHub>**
+**Shaik Rizwaan Ali**
