@@ -1,0 +1,67 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+secrets.*
+credentials.*
+*.pem
+*.key
+*.p12
+token.json
+client_secret*.json
+.npmrc
+.pypirc
+.netrc
+.git-credentials
+kaggle.json
+
+# Python environments and caches
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Generated analysis data and model weights
+downloades/
+vector_db/
+outputs/
+output/
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.h5
+*.parquet
+*.csv
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.m4a
+*.webm
+*.zip
+*.tar
+*.gz
+
+# Notebook and tool state
+.ipynb_checkpoints/
+.vscode/
+.idea/
+PUBLISH_PROGRESS.md
+_private_backup/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
